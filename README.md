@@ -9,4 +9,4 @@
 
 #### Question 1 เรียนจากช่องไหน
 
-จากช่อง KongRuksiam Tutorial
+จากช่อง KongRuksiam Tutorial (Total 3 phase)
