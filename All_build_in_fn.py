@@ -10,7 +10,7 @@ def my_func(a):
     return len(a)
 x = map(my_func, ('apple', 'banana', 'cherry'))
 print(list(x))
-#Reverse str
+#Reverse str แบบสร้างlistใหม่ (sortเฉยๆใช้เปลี่ยนแปลงค่าในlistเลย)
 print("กลับข้อความ =", sorted("Phoom", reverse=True))
 #sum หาผลรวมของเลขในlist
 a=[1, 2, 3, 4, 5, 6]

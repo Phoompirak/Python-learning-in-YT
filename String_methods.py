@@ -61,6 +61,5 @@ print("Index = ", P.index('o'))
 # เช็คจำนวนตัวอักษรหรือข้อความที่ต้องการ
 print("count = ",P.count("h")) #string.count(value, start, end)
 
-# เช็คstrตัวแรกว่าใช่ตามที่ระบุไหม (เลือกได้ไ ไม่จำเป็นต้องเป็นแค่ต้นแรกสุด)
+# เช็คstrตัวแรกว่าใช่ตามที่ระบุไหม (เลือกได้ไม่จำเป็นต้องเป็นแค่ต้นแรกสุด)
 print("Startswith = ", P.startswith("P")) #string.startswith(value, start, end)
-

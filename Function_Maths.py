@@ -15,8 +15,8 @@ print(f"ค่ารูท64 = {result}")
 
 #ปัดเศษทศนิยม
 score=80.46
-print(f"ปัดเศษขึ้น = {math.floor(score)}")
-print(f"ปัดเศษลง = {math.ceil(score)}")
+print(f"ปัดเศษลง = {math.floor(score)}")
+print(f"ปัดเศษขึ้น = {math.ceil(score)}")
 print(f"ค่าPIEคงที่ = {math.pi}")
 
 #ตรีโกณมิติ
